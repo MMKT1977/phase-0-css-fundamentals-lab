@@ -3,3 +3,56 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+nav{
+  text-align: center;
+  
+}
+.nav{
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+figcaption{
+  text-align: center;
+  
+}
+a{
+  color: blue;
+  
+}
+.lorem{
+  
+  margin-right:30%;
+  margin-left:30%;
+ text-align-last: center;
+}
+.parent{
+  background-color: red;
+  
+}
+.contact{
+  display: inline-block;
+  margin-left: 13%;
+}
+.correspondence{
+  display: inline-block;
+  margin-left: 13%;
+}
+.links{
+ display: inline-block;
+ margin-left: 15%;
+}
+
+.follow{
+  display: inline-block;
+  margin-left: 13%;
+}
